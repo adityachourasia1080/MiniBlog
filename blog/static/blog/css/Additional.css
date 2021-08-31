@@ -1,0 +1,92 @@
+@keyframes Progress {
+    0% {
+        width:0px;
+    }
+    50%{
+        width:80vw;
+    }
+    100%
+    {
+          width:100vw;
+    }
+    
+}
+.progressbar{
+    width:100vw;
+    height:3px;
+    background-color:red;
+    animation:Progress 1s ease-in-out ;
+}
+*
+{
+    margin:0;
+    padding: 0;
+}
+.card{
+    position : relative;
+    top:544px;
+    left:800px;
+}
+footer{
+    height: 10vh;
+    background-color: Black; 
+    color: white;
+    font-family: 'Lato', sans-serif;
+    display:flex;
+    position: relative;
+    bottom: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@keyframes slide1 {
+    0% {
+        transform: translate(-8vw);
+    }
+
+    100% {
+        transform: translate(100vw);
+}
+}
+
+@keyframes slide2 {
+    0% {
+        transform: translate(0vw);
+    }
+
+    100% {
+        transform: translate(108vw);
+}
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.slider { 
+    width:100vw;
+    background-color: white;
+    height: 45vh; 
+    overflow: hidden;
+    margin: 12px auto;
+    display: flex; 
+    justify-content: center;
+}
+.img1{
+    transform: trans
+    justify-contentlate(-8vw);  
+    animation: slide1 5s 10s infinite;
+
+}
+.img2{
+    transform: translate(0vw);   
+    animation: slide2 5s 10s infinite;
+}
+.img3{
+    transform: translate(8vw);
+} 
+.img1:hover{
+    animation-timing-function: infinite;
+}
