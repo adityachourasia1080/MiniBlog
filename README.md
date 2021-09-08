@@ -1,11 +1,11 @@
 # MiniBlog
-MiniBlog is not just a Blog but more like quora for college. Freshers which are new to college genrally hesitate to asked doubt with seniors due to this online work culture. Thus they are not able to gain knowleadge of things that should be know to them at particulat time. Through this Blog juniors can interact with seniors indirectly,can asked Doubts regarding exam ,topic, oncampus and offcampus opportunities and many more.Also the control of website will be in hands of seniors and they will update these juniors about diffeent hackathon, coding contest, which field to choose and many more. Thus it basically reduces the gap between the students and helps in there overll development.
+MiniBlog is not just a Blog but more like quora for college. Freshers which are new to college generally hesitate to asked doubt with seniors due to this online work culture. Thus they are not able to gain knowledge of things that should be know to them at particular time. Through this Blog juniors can interact with seniors indirectly, can asked Doubts regarding exam ,topic, on campus and offcampus opportunities and many more. Also the control of website will be in hands of seniors and they will update these juniors about different hackathon, coding contest, which field to choose and many more. Thus it basically reduces the gap between the students and helps in there overall development.
 
-Features are
-•	Developed a blogging website where people can share valuable information related to certain topic.
-•	User have to register in order to Become an Author so to write posts.
-•	User have to take permission from admin for editing of some other posts.
-•	The administration portal has the controlled over all the post and only admin can delete a particular post.
+Features are 
+• Developed a blogging website where people can share valuable information related to certain topic.
+• User have to register in order to Become an Author so to write posts.
+• User have to take permission from admin for editing of some other posts. 
+• The administration portal has the controlled over all the post and only admin can delete a particular post.
 
 Skill Used: HTML, CSS, Bootstrap, SQLite3, Django Framework
 
